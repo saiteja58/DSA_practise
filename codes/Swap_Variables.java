@@ -1,3 +1,4 @@
+package codes;
 public class Swap_Variables{
 
     static void swap1(int a,int b){
